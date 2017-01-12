@@ -1,0 +1,7 @@
+node_modules
+.idea
+.DS_STORE
+aurelia_project
+typings
+test
+custom_typings
